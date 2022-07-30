@@ -4,8 +4,8 @@
 # The TeamLiftr Framework
 [To be written]
 
-1. [Product & Technology]()
-   - [Product Strategy]()
+1. [Product & Technology](product_and_technology/INDEX.md)
+   - [Product Strategy](product_and_technology/PRODUCT_STRATEGY.md)
    - [Technology Strategy]()
    - [Continuous Integration & Deployment]()
    - [Data-Driven Development]()
