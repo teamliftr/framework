@@ -3,5 +3,5 @@ Is your team doing everything it can to ensure its focused on creating a product
 
 - [1.1 Product Strategy](PRODUCT_STRATEGY.md)
 - [1.2 Technology Strategy](TECHNOLOGY_STRATEGY.md)
-- [1.3 Continuous Integration & Deployment]()
-- [1.4 Data-Driven Development]()
+- [1.3 Continuous Integration & Deployment](CONTINUOUS_INTEGRATION_AND_DEPLOYMENT.md)
+- [1.4 Data-Driven Development](DATA-DRIVEN_DEVELOPMENT.md)
