@@ -1,7 +1,9 @@
-# Introduction
+# TeamLiftr Framework
+
+## Introduction
 [To be written]
 
-# The TeamLiftr Framework
+## The Framework
 [To be written]
 
 **[1. Product & Technology](/product_and_technology/README.md)**
@@ -22,8 +24,8 @@
    - [3.3 Continuity & Incident Management](/operations_and_risk_management/CONTINUITY_AND_INCIDENT_MANAGEMENT.md)
    - [3.4 Information Security Assurance](/operations_and_risk_management/INFORMATION_SECURITY_ASSURANCE.md)
 
-# FAQs
+## FAQs
 [To be written]
 
-# License
+## License
 TeamLiftr Framework © 2022 by Floris Vlasveld (Inspire Innovation BV) is licensed under CC BY-NC-SA 4.0.
