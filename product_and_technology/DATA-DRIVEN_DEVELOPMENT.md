@@ -22,7 +22,7 @@ Clear outcome metrics provide teams with a sense of purpose and act as “guardr
 It is common for the development process to result in products that do not fully represent the business case for the product, even when developers have been briefed on what the business case is. Effective use of shared targets makes it easier for teams to monitor their alignment more closely, so that requirements drift can be recognized and corrected early.
 
 ## 1.4.5 Product Data Monitoring
-**Your team’s use of product/service data is guided by a monitoring strategy that covers both functional and non-functional metrics. This strategy has allowed your team to create significant value from its d**ata.
+**Your team’s use of product/service data is guided by a monitoring strategy that covers both functional and non-functional metrics. This strategy has allowed your team to create significant value from its data.**
 
 Teams that continually monitor product data and make use of data insights are better at discovering new opportunities to increase product value. Strong use of product data, such as functional and performance data, testing data, and customer use metrics, is key to your team’s ability to maximize your product’s ability to meet its core business objectives.
 
