@@ -24,3 +24,6 @@
 
 # FAQs
 [To be written]
+
+# License
+TeamLiftr Framework © 2022 by Floris Vlasveld (Inspire Innovation BV) is licensed under CC BY-NC-SA 4.0.
