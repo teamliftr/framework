@@ -1,25 +1,10 @@
-# TeamLiftr Framework
-
-## Contents
-- [Introduction](#introduction)
-   - [Why?](#why)
-   - [Goal](#goal)
-   - [...](#...)
-- [The framework](#the-framework)
-- [How to use](#how-to-use)
-- [How to contribute](#how-to-contribute)
-- [FAQs](#faqs)
-- [License](#license)
+# Home
 
 ## Introduction
 [To be written]
 
-## Why?
-
-## Goal
-
-## ...
-- Opinionated.
+## How to use with your team
+[To be written]
 
 ## The framework
 [To be written]
@@ -42,10 +27,7 @@
    - [3.3 Continuity & Incident Management](/operations_and_risk_management/CONTINUITY_AND_INCIDENT_MANAGEMENT.md)
    - [3.4 Information Security Assurance](/operations_and_risk_management/INFORMATION_SECURITY_ASSURANCE.md)
 
-## How to use with your team
-[To be written]
-
-## How to contribute
+## Contributing
 [To be written]
 
 ## FAQs
