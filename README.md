@@ -13,7 +13,7 @@
    - [1.4 Data-Driven Development](/product_and_technology/DATA-DRIVEN_DEVELOPMENT.md)
 
 **[2. People & Performance](/people_and_performance/README.md)**
-   - [2.1 Current Performance](/people_and_performance/CURRENT_PERFORMANCE_md)
+   - [2.1 Current Performance](/people_and_performance/CURRENT_PERFORMANCE.md)
    - [2.2 Continuous Improvement](/people_and_performance/CONTINUOUS_IMPROVEMENT.md)
    - [2.3 Workplace Culture](/people_and_performance/WORKPLACE_CULTURE.md)
    - [2.4 Talent Recruitment & Development](/people_and_performance/TALENT_RECRUITMENT_AND_DEVELOPMENT.md)
