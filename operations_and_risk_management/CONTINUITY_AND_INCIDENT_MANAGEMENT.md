@@ -1,0 +1,2 @@
+# 3.3 Continuity & Incident Management
+All systems experience disruptions, and most teams will eventually experience serious disruptions at least once over the lifespan of a product or service. Regardless of whether a disruption is caused by human factors, a technical error, or an outside attack—the ability to mitigate, rapidly respond to, and recover from disruptions, is a crucial team competency. 
