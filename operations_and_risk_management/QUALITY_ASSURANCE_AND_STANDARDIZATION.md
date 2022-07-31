@@ -1,5 +1,5 @@
 # 3.2 Quality Assurance & Standardization
-Even the best-laid plans can go awry if they are not supported by strong day-to-day work practices. The use of defined workflow processes and frameworks that can be used to monitor and benchmark both daily and near-term productivity is a necessity for any team that wants to be able to meaningfully track changes in their performance over time. 
+A strong quality assurance (QA) system helps teams to locate and prevent failures before they occur. The use of dedicated code standards and review procedures is a key part of a strong QA system; regular code reviews also provide an opportunity for team members to collaborate and share knowledge with each other.
 
 ## 3.2.1 Coding Standards
 **Your team believes-in and follows a single set of quality standards for coding, testing, and version control. These standards are designed to maximize your ability to create value for customers.**
