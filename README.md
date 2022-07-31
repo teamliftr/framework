@@ -1,1 +1,2 @@
-# The TeamLiftr Framework
+# TeamLiftr Framework Repository
+[To be written]
