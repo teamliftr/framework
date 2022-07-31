@@ -1,4 +1,5 @@
 # 3.1 Daily Operations
+Even the best-laid plans can go awry if they are not supported by strong day-to-day work practices. The use of defined workflow processes and frameworks that can be used to monitor and benchmark both daily and near-term productivity is a necessity for any team that wants to be able to meaningfully track changes in their performance over time.
 
 ## 3.1.1 Planning Accuracy
 **Your team is effective at estimating how much work/effort will need to be done to complete a task, and avoids committing to tasks it does not have time to do.**
