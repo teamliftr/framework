@@ -22,7 +22,7 @@ Regular meetings are important; however, they can be a burden if they become too
 A team with adequate capacity can service both its development and operational needs throughout the lifespan of its product. To maintain adequate capacity, teams must continuously monitor their current capacity against their needed capacity and efficiently upscale when needed.
 
 ## 3.1.5 Team Workflow	
-**Your team’s workflow events and processes are performing adequately, and performance is assessed at regular intervals (e.g., at the end of milestones).	**
+**Your team’s workflow events and processes are performing adequately, and performance is assessed at regular intervals (e.g., at the end of milestones).**
 
 “Team processes” are the agreed-upon actions and interactions that a team takes to achieve a shared goal. Events are part of processes, and include stand-ups and retrospectives. In order to ensure your team’s “way of working” is continuing to function well, it is important to review your team’s workflow processes regularly.
 
