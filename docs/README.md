@@ -34,4 +34,4 @@
 [To be written]
 
 ## License
-The TeamLiftr Framework © 2022 by Inspire Innovation BV is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+The TeamLiftr Framework and all its associated assets including but not limited to text and images, are copyright of Inspire Innovation BV. You are free to use the TeamLiftr Framework for personal and non-commercial uses, in which case no permission is required from Inspire Innovation BV. For other uses you need to obtain express written permission.
