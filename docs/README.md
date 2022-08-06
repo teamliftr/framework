@@ -1,10 +1,9 @@
 # Home
 
 ## Introduction
+TeamLiftr is an assessment and performance tracking framework that makes it easier for software product teams to self-assess their overall performance and to identify priority areas for performance improvement. 
 
-TeamLiftr is an assessment and performance tracking framework designed to allow software product teams to self-assess their overall performance. We developed TeamLiftr to meet our own need for a framework that provides a structured, high-level overview of the key areas that most impact team performance. 
-
-TeamLiftr is designed specifically for software product teams, and was created to provide a straightforward structure for identifying and pursuing opportunities to improve team performance. We use it with the teams we work with, and have found it to be consistently effective. The framework’s comprehensive scope allows it to serve as a source of inspiration for teams who are looking to identify new opportunities for improvement; teams that use the framework will be able to identify improvement opportunities that otherwise would go unnoticed.  
+We developed TeamLiftr to meet our own need for a framework that provides a structured, high-level overview of the areas that most impact team performance. We use it with the teams we work with, and have found it to be an effective source of inspiration for teams looking to pursue new improvement projects. Teams that use the framework are able to identify improvement opportunities that otherwise would go unnoticed.  
 
 The framework's design and content reflect current industry-recognized best practices; however, this framework is still an inherently subjective and non-exhaustive document. In contrast with frameworks that are designed based on interview and survey feedback, TeamLiftr’s authors relied upon their own professional experience when creating the framework, and then validated its content through reviews from outside experts. This "curatorial approach" allowed us to ensure that the framework's scope is properly comprehensive in its consideration of performance issues, and avoids conflating awareness with importance. 
 
