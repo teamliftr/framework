@@ -7,9 +7,7 @@ We developed TeamLiftr to meet our own need for a framework that provides a stru
 
 The framework's design and content reflect current industry-recognized best practices; however, this framework is still an inherently subjective and non-exhaustive document. In contrast with frameworks that are designed based on interview and survey feedback, TeamLiftr’s authors relied upon their own professional experience when creating the framework, and then validated its content through reviews from outside experts. This "curatorial approach" allowed us to ensure that the framework's scope is properly comprehensive in its consideration of performance issues, and avoids conflating awareness with importance. 
 
-The TeamLiftr framework is complemented by the TeamLiftr app (TeamLiftr.com), an optional premium platform for the TeamLiftr framework. The app includes all three TeamLiftr assessments, custom visualizations for both user and team-level assessment results, progress tracking tools, and dedicated workspaces for each of your improvement projects. 
-
-The TeamLiftr framework will always be free, our goal for TeamLiftr.com is to provide a way for teams to keep their entire improvement journey within a single platform in order to make your improvement workflows simpler, easier to track, and more transparent. 
+The TeamLiftr framework is complemented by the TeamLiftr app (TeamLiftr.com), an optional premium platform for the TeamLiftr framework. The app includes all three TeamLiftr assessments, custom visualizations for both user and team-level assessment results, progress tracking tools, and dedicated workspaces for each of your improvement projects. The framework itself will always be free, our goal for the app is to provide a way for teams to keep their entire improvement journey within a single platform in order to make your improvement workflows simpler, easier to track, and more transparent. 
 
 ## How to use with your team
 [To be written]
