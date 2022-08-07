@@ -1,7 +1,7 @@
 # Home
 
 ## Introduction
-**TL;DR** 
+*TL;DR* 
 TeamLiftr is an assessment and performance tracking framework that provides a structured, straightforward way for software product teams to assess their own performance. Teams can use the framework to efficiently identify which work areas they feel should be prioritized for improvement. 
 ---
 We developed TeamLiftr to meet our own need for a framework that offers a high-level overview of team performance. Teams we work with have been able to use the framework to identify improvement opportunities they would otherwise miss, and have found it to simplify the process of selecting and onboarding new improvement projects. 
