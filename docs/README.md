@@ -1,13 +1,17 @@
 # Home
 
 ## Introduction
-TeamLiftr is an assessment and performance tracking framework that makes it easier for software product teams to self-assess their overall performance and to identify priority areas for performance improvement. 
+TeamLiftr is an assessment and performance tracking framework that provides a structured, straightforward way for software product teams to assess their own performance. Teams can use the framework to efficiently identify which work areas they feel should be prioritized for improvement. 
 
-We developed TeamLiftr to meet our own need for a framework that provides a structured, high-level overview of the areas that most impact team performance. We use it with the teams we work with, and have found it to be an effective source of inspiration for teams looking to pursue new improvement projects. Teams that use the framework are able to identify improvement opportunities that otherwise would go unnoticed.  
+We developed TeamLiftr to meet our own need for a framework that offers a high-level overview of team performance. Teams we work with have been able to use the framework to identify improvement opportunities they would otherwise miss, and have found it to simplify the process of selecting and onboarding new improvement projects. 
 
-The framework's design and content reflect current industry-recognized best practices; however, this framework is still an inherently subjective and non-exhaustive document. In contrast with frameworks that are designed based on interview and survey feedback, TeamLiftr’s authors relied upon their own professional experience when creating the framework, and then validated its content through reviews from outside experts. This "curatorial approach" allowed us to ensure that the framework's scope is properly comprehensive in its consideration of performance issues, and avoids conflating awareness with importance. 
+The framework's design and content reflect current best practices in software engineering and assessment design, and the framework as a whole has been validated by outside exports. While the framework aims to be comprehensive, it is ultimately a subjective and non-exhaustive document that reflects the perspectives of its creators. 
 
-The TeamLiftr framework is complemented by the TeamLiftr app (TeamLiftr.com), an optional premium platform for the TeamLiftr framework. The app includes all three TeamLiftr assessments, custom visualizations for both user and team-level assessment results, progress tracking tools, and dedicated workspaces for each of your improvement projects. The framework itself will always be free, our goal for the app is to provide a way for teams to keep their entire improvement journey within a single platform in order to make your improvement workflows simpler, easier to track, and more transparent. 
+This “curatorial” approach to creating TeamLiftr separates it from frameworks that are based on survey or interview feedback. These approaches are valuable, but they also pass-on any feedback blindspots. Our approach allows us to ensure that we address important areas that survey-based methods could miss.
+
+The TeamLiftr framework is complemented by the TeamLiftr app (TeamLiftr.com). The app includes all three TeamLiftr assessments, visualizations of both individual and team-level assessment feedback, progress tracking tools, and dedicated collaborative workspaces for each of your team’s improvement projects. 
+
+The framework itself will always be free. The app provides an optional way for teams to keep their entire improvement journey within a single platform so that their improvement workflows are more streamlined, trackable, and transparent.
 
 ## How to use with your team
 [To be written]
