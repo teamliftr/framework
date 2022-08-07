@@ -14,11 +14,31 @@ The TeamLiftr framework is complemented by the TeamLiftr app (TeamLiftr.com). Th
 
 The framework itself will always be free. The app provides an optional way for teams to keep their entire improvement journey within a single platform so that their improvement workflows are more streamlined, trackable, and transparent.
 
-## How to use with your team
-[To be written]
+## The framework's structure
+TeamLiftr’s assessment framework consists of three assessments, each with four categories, each with six topics (for a total of 72 topics). The authors have chosen to limit the number of topics to 72 in order to keep the scope manageable and easy to follow, while remaining comprehensive. The framework’s symmetrical 3x4x6 structure allows users to advance through the assessments and categories in any order they desire; in lieu of completing an entire assessment at once, many users opt to complete the assessments in chunks, one category at a time.  
 
-## The framework
-[To be written]
+The three main assessment categories are:
+
+**Product & Technology**      
+A comprehensive product strategy isn’t necessary to develop a working product, but it is necessary to develop a product that’s competitive and sustainable. This assessment helps teams to identify what product features to prioritize and how to maximize value for end-users. 
+
+**People & Performance**     
+A strong product needs a strong team. This assessment is designed to help teams to foster an inclusive culture that values and prioritizes collaboration and continuous improvement. Every project’s performance depends on its people, and every team’s competitiveness depends on its ability to help its people improve. 
+
+**Operations & Risk Management**     
+It’s impossible to control the unexpected, but it’s not impossible to prepare for it. This assessment is designed to help teams identify whether it’s taking the necessary steps to prevent and recover from operational disruptions. Your product’s success depends on your team’s ability to prevent disruptions from occurring (and on its ability to recover when those disruptions happen anyway).
+
+Each topic in the framework consists of a statement for the user to evaluate and an explanation that provides further detail on the topic. For example, this is the first topic in the Product Strategy category, which is part of the Product & Technology assessment:
+
+**1.1.1 Product Vision**
+   - **Statement:** Your team has an explicit, high-level vision for the product(s) and/or service(s) it is responsible for. This vision clearly describes the problem that the product/service aims to solve, and was developed as a collaborative effort.**
+   - **Explanation:** A strong product vision emphasizes the value the product offers to users, and in-turn provides all team members with a shared understanding of the team’s long-term goal. Product visions should be validated by both team members and potential users, and revised as-needed to ensure development stays focused on creating a product that addresses a genuine customer need.
+
+Users complete each topic by scoring their level of agreement with that topic's statement. The scoring system is designed to use the following format: 1 - *Untrue*, 
+2 - *Somewhat True*, 3 - *Mostly True*, 4 - *Entirely True*
+
+## The TeamLiftr Framework
+Selecting any individual category 
 
 **[1. Product & Technology](product_and_technology/README.md)**
    - [1.1 Product Strategy](product_and_technology/PRODUCT_STRATEGY.md)
@@ -37,6 +57,10 @@ The framework itself will always be free. The app provides an optional way for t
    - [3.2 Quality Assurance & Standardization](operations_and_risk_management/QUALITY_ASSURANCE_AND_STANDARDIZATION.md)
    - [3.3 Continuity & Incident Management](operations_and_risk_management/CONTINUITY_AND_INCIDENT_MANAGEMENT.md)
    - [3.4 Information Security Assurance](operations_and_risk_management/INFORMATION_SECURITY_ASSURANCE.md)
+
+## How to use with your team
+[To be written]
+
 
 ## Contributing
 [To be written]
