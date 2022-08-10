@@ -59,7 +59,20 @@ Selecting any individual category
    - [3.4 Information Security Assurance](operations_and_risk_management/INFORMATION_SECURITY_ASSURANCE.md)
 
 ## How to use with your team
-[To be written]
+TeamLiftr is designed to foster continuous improvement through a cyclical process: Teams assess their performance, identify what issues to improve, and initialize an improvement project for those issues. Teams then use the framework to reassess their performance periodically, both to evaluate their current progress and to identify new priorities for improvement. 
+
+The TeamLiftr in a nutshell: Assess Performance → Identify Improvement Priority → Create Improvement Project → (Re)assess Performance.
+
+To get started, teams should complete at least part of our assessments—as noted above, both the assessments and their individual categories can be completed in any order. After completing an assessment, teams should discuss their results together in order to identify improvement priorities. 
+
+In order to make it easier for teams to identify their improvement priorities, TeamLiftr organizes the topics in each category according to their immediate importance: 
+
+   - Topics 1-3 in each category are “Basic” performance topics—core performance issues that teams should prioritize first. 
+   - Topics 4-5 are “Intermediate” and Topic 6 is an “Advanced” topic—these issues are for teams that are ready to optimize their performance and out-compete their peers. 
+
+After using an assessment to identify a particular area to improve performance, teams should start an improvement initiative for that topic. Because that initiative is linked to a specific topic from an assessment, your team will be able to monitor its success by tracking how feedback changes over time. 
+
+This is why it’s beneficial for teams to retake assessments periodically: Using the assessments to create an ongoing record of the team’s feedback makes it possible for teams to easily and accurately monitor changes in performance over time, across all the major variables that affect their ultimate performance.
 
 
 ## Contributing
