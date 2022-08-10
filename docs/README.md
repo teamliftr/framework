@@ -67,8 +67,8 @@ To get started, teams should complete at least part of our assessments—as note
 
 In order to make it easier for teams to identify their improvement priorities, TeamLiftr organizes the topics in each category according to their immediate importance: 
 
-   - Topics 1-3 in each category are “Basic” performance topics—core performance issues that teams should prioritize first. 
-   - Topics 4-5 are “Intermediate” and Topic 6 is an “Advanced” topic—these issues are for teams that are ready to optimize their performance and out-compete their peers. 
+   - **Topics 1-3** in each category are “Basic” performance topics—core performance issues that teams should prioritize first. 
+   - **Topics 4-5** are “Intermediate” and Topic 6 is an “Advanced” topic—these issues are for teams that are ready to optimize their performance and out-compete their peers. 
 
 After using an assessment to identify a particular area to improve performance, teams should start an improvement initiative for that topic. Because that initiative is linked to a specific topic from an assessment, your team will be able to monitor its success by tracking how feedback changes over time. 
 
