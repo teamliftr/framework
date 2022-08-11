@@ -74,6 +74,26 @@ After using an assessment to identify a particular area to improve performance, 
 
 This is why it’s beneficial for teams to retake assessments periodically: Using the assessments to create an ongoing record of the team’s feedback makes it possible for teams to easily and accurately monitor changes in performance over time, across all the major variables that affect their ultimate performance.
 
+### Getting the most out of post-assessment discussions <!-- Revisit this section. Make more concise? -->
+The discussion portion of the TeamLiftr framework is just as important as the assessment itself. This is a time for team members to review results, share insights, and ultimately develop a plan of action for improvement. When used to their full potential, these post-assessement discussions can be an invaluable shared record of your team's performance improvement efforts.    
+    
+*Identify Potential Improvement Projects*   
+Identifying which areas of your team’s performance should be prioritized can be challenging; however, the TeamLiftr framework makes this process far more straightforward. By breaking down your team’s performance into 12 categories of performance, with six topics per-category, TeamLiftr offers an organized, easy-to-discuss snapshot of team performance. The framework can’t tell your team what its specific goals should be, but it can provide the structure necessary to inspire teams to develop that answer for themselves. 
+
+*Inspire Meaningful Discussions*     
+TeamLiftr’s post-assessment discussions are an opportunity for individual team members to highlight issues they feel strongly about. Each topic is a potential “jumping off” point that team members can use to highlight a topic they feel deserves more awareness within the team. It can be difficult to direct a group’s attention to issues that they don’t view as important—these post-assessment discussions offer team members the agency to prevent key issues from being overlooked. 
+
+*Facilitate Knowledge Sharing*   
+Group discussion of assessment results should encourage the exchange of perspectives between team members and provide opportunities for team members to build shared knowledge about a topic. Knowledge sharing during discussions is an improvement activity unto itself; however, teams may decide that improving their knowledge of a specific topic area should be an improvement project in its own right. 
+
+*Create Topic Breakdowns*   
+TeamLiftr deals with performance at a relatively high-level. To fully discuss a topic from the framework, it will often be necessary to consider the various factors that affect your team’s performance in that area. This topic breakdown process is important when planning your improvement projects: the ability to target specific performance variables is a crucial part of goal-setting.
+
+*Reinforce Existing Achievements*   
+When teams periodically update their TeamLiftr assessments, their subsequent post-assessment discussions can act as a valuable knowledge management activity. Team discussions about changes in assessment results are an effective way to identify if refresher training is necessary or if there has been a breakdown in skill transfer somewhere. These activities can ensure that your team’s performance improvement achievements are explicitly logged and retained long-term.
+
+## Ambitions / Future Additions to the Framework
+[To be written]
 
 ## Contributing
 [To be written]
