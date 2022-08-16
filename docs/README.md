@@ -93,8 +93,20 @@ TeamLiftr deals with performance at a relatively high-level. To fully discuss a 
 When teams periodically update their TeamLiftr assessments, their subsequent post-assessment discussions can act as a valuable knowledge management activity. Team discussions about changes in assessment results are an effective way to identify if refresher training is necessary or if there has been a breakdown in skill transfer somewhere. These activities can ensure that your team’s performance improvement achievements are explicitly logged and retained long-term.
 
 ## Ambitions / Future Additions to the Framework
-[To be written]
-
+**Suggested Metrics**      
+We are currently developing a suite of suggested metrics for the framework. Each metric will be linked to a specific topic in the framework, and is designed as a way for teams to measure the progress of their improvement projects.        
+        
+These metrics will make it easier for teams to assess the effects of their improvement efforts with confidence—and when teams have concrete “proof” that their efforts are having a positive effect, they are more likely to stay committed to them long-term.        
+           
+Providing suggested metrics should also make the framework more actionable: The “action threshold” for starting a new improvement project should be lower if teams know that they don’t have to worry about developing their own KPI, and can instead rely on using a TeamLiftr-validated performance metric to assess their progress.       
+            
+**Usage Standards & Guidance**        
+We are investigating whether the creation of a formal set of usage guidelines would be beneficial to our users. These usage guidelines would collectively serve as a flexible standard that teams could use to guide their ongoing, long-term use of the framework.          
+           
+This usage guidance would be focused on high-level activities, such as: engaging with assessments, performing team reviews, selecting improvement priorities, creating new improvement projects, etc.            
+              
+Teams often have trouble assessing whether they are doing “enough” when pursuing their improvement goals, and this uncertainty can negatively impact motivation. By enabling teams to assess their overall use of the framework against a set of TeamLiftr-validated guidelines, we can provide teams with the ability to more confidently assess whether their current efforts are in-line with their goals.            
+               
 ## Contributing
 [To be written]
 
