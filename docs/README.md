@@ -108,7 +108,11 @@ This usage guidance would be focused on high-level activities, such as: engaging
 Teams often have trouble assessing whether they are doing “enough” when pursuing their improvement goals, and this uncertainty can negatively impact motivation. By enabling teams to assess their overall use of the framework against a set of TeamLiftr-validated guidelines, we can provide teams with the ability to more confidently assess whether their current efforts are in-line with their goals.            
                
 ## Contributing
-[To be written]
+TeamLiftr’s commitment to continuous improvement extends to the framework itself—we’re always looking to make TeamLiftr better, and want it to be as useful as possible for product engineering teams. If you’d like to help with the development of TeamLiftr, we’d love to hear from you. Here are some ways to get involved:
+
+   - **Provide Feedback** by opening an issue in our GitHub repository
+   - **Propose a Change** by submitting a pull request 
+   - **Join Our Community** by signing up to our Slack Channel [Under Construction?]
 
 ## FAQs
 [To be written]
