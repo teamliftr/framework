@@ -112,7 +112,7 @@ TeamLiftr’s commitment to continuous improvement extends to the framework itse
 
    - **Provide Feedback** by opening an issue in our GitHub repository
    - **Propose a Change** by submitting a pull request 
-   - **Join Our Community** by signing up to our Slack Channel [Under Construction?]
+   - **Join Our Community** by signing up to our Slack Channel **[TBD]**
 
 ## FAQs
 [To be written]
