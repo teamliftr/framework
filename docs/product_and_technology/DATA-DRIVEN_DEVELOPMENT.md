@@ -11,7 +11,7 @@ Effective use of analytics should be a part of every major decision-making proce
 
 A strong goal-setting cadence will include both short and long-term goals. Progress towards goals should be measured through the use of relevant KPIs; however, KPI are not goals themselves. A KPI is only valuable to the extent that it helps to illustrate the team’s progress towards achieving a desired outcome (goal).
 
-## 1.4.3 Team-Level Metric
+## 1.4.3 Team-Level Metrics
 **Team performance is measured by KPIs tied to customer or business value. These enable the team to make decisions with more autonomy than it would otherwise be able to.**
 
 Clear outcome metrics provide teams with a sense of purpose and act as “guardrails” that enable teams to act autonomously without the risk of deviation from your company’s core goals. Metrics should be chosen based on what outcomes will maximize customer and business value.
