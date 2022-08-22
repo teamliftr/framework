@@ -118,9 +118,6 @@ TeamLiftr’s commitment to continuous improvement extends to the framework itse
 [To be written]
 
 ## License
-TeamLiftr’s authors are Floris Vlasveld and Jeffrey Cusack.     
+TeamLiftr’s authors are Floris Vlasveld and Jeffrey Cusack. The TeamLiftr Framework can be used freely and without limit, except for Commercial Use and the creation of Derivative Works, which are prohibited.       
       
-The TeamLiftr Framework and its associated assets are copyright Inspire Innovation BV, all rights reserved. Associated assets include but are not limited to text and images.      
-       
-The TeamLiftr Framework is free for personal and non-commercial use and can be used without permission. Express written consent must be obtained for all other uses. 
-
+The TeamLiftr Framework and its associated assets are copyright Inspire Innovation BV, all rights reserved. 
