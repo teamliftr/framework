@@ -114,9 +114,6 @@ TeamLiftr’s commitment to continuous improvement extends to the framework itse
    - **Propose a Change** by submitting a pull request 
    - **Join Our Community** by signing up to our Slack Channel **[TBD]**
 
-## FAQs
-[To be written]
-
 ## License
 The TeamLiftr Framework can be used freely and without limit, except for Commercial Use and the creation of Derivative Works, which are prohibited.       
       
