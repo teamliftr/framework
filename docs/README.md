@@ -75,7 +75,7 @@ After using an assessment to identify a particular area to improve performance, 
 This is why it’s beneficial for teams to retake assessments periodically: Using the assessments to create an ongoing record of the team’s feedback makes it possible for teams to easily and accurately monitor changes in performance over time, across all the major variables that affect their ultimate performance.
 
 ### Using TeamLiftr to decide team responsibilities
-TeamLiftr is a powerful decision-making support tool. Because the Framework offers a structured view of team performance, teams can use it to more effectively and transparently decide who on the team should take ownership over a given responsibility or improvement initiative. 
+TeamLiftr is a powerful decision-making support tool. Because the Framework offers a structured view of team performance, teams can use it to more effectively and transparently decide who on the team should take ownership of a given task, responsibility or improvement initiative. 
 
 By breaking down overall team performance into organized, symmetrically categorized arrays of individual topics, TeamLiftr can empower teams to better discuss performance issues, identify priorities, and decide who should take ownership of a given project—with significantly more clarity and transparency than would otherwise be possible. 
 
