@@ -117,9 +117,9 @@ Teams often have trouble assessing whether they are doing “enough” when purs
 ## Contributing
 TeamLiftr’s commitment to continuous improvement extends to the framework itself—we’re always looking to make TeamLiftr better, and want it to be as useful as possible for product engineering teams. If you’d like to help with the development of TeamLiftr, we’d love to hear from you. Here are some ways to get involved:
 
-   - **Provide Feedback** by opening an issue in our GitHub repository
-   - **Propose a Change** by submitting a pull request 
-   - **Join Our Community** by signing up to our Slack Channel **[TBD]**
+   - **Provide Feedback** by [opening an issue](https://github.com/teamliftr/framework/issues/new) in our [GitHub repository](https://github.com/teamliftr/framework).
+   - **Propose a Change** by [submitting a pull request](https://github.com/teamliftr/framework/pulls). 
+   - **Join Our Community** by signing up to the [TeamLiftr Community on Slack](https://join.slack.com/t/teamliftr/shared_invite/zt-17s1ssb6b-1~k1AzVajRxCxbJHxqMpRw).
 
 ## License
 The TeamLiftr Framework can be used freely and without limit, except for commercial use and the creation of derivative works, which are prohibited.       
