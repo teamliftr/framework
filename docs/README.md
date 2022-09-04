@@ -81,6 +81,11 @@ By breaking down overall team performance into organized, symmetrically categori
 
 TeamLiftr's decision support function also applies to individuals in leadership roles: TeamLiftr has successfully been used with CTOs to help them to better decide which tasks they should manage directly and which should be delegated to others. 
 
+### Using TeamLiftr to decide team responsibilities
+Your improvement efforts are more likely to succeed if you structure them around a set of routines. Planning to complete one assessment per-month or setting a weekly team meeting to review the progress of your improvement projects are just two routine events that can add value to your improvement efforts. 
+
+There is no “one size fits all” approach to building routines around TeamLiftr: Your team’s routines should consist of the events, processes, and artifacts that are convenient for your team to fit into its existing workflow. Using this method to structure your improvement efforts will make them more impactful and increase your team’s ability to achieve sustained performance improvements. 
+
 ### Getting the most out of post-assessment discussions <!-- Revisit this section. Make more concise? -->
 The discussion portion of the TeamLiftr framework is just as important as the assessment itself. This is a time for team members to review results, share insights, and ultimately develop a plan of action for improvement. When used to their full potential, these post-assessement discussions can be an invaluable shared record of your team's performance improvement efforts.    
     
