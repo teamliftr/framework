@@ -10,7 +10,7 @@ The framework's design and content reflect current best practices in software en
 
 This “curatorial” approach to creating TeamLiftr separates it from frameworks that are based on survey or interview feedback. These approaches are valuable, but they also pass-on any feedback blindspots. Our approach allows us to ensure that we address important areas that survey-based methods could miss.
 
-The TeamLiftr framework is complemented by the TeamLiftr app (TeamLiftr.com). The app includes all three TeamLiftr assessments, visualizations of both individual and team-level assessment feedback, progress tracking tools, and dedicated collaborative workspaces for each of your team’s improvement projects. 
+The TeamLiftr framework is complemented by the TeamLiftr app ([TeamLiftr.com](https://teamliftr.com)). The app includes all three TeamLiftr assessments, visualizations of both individual and team-level assessment feedback, progress tracking tools, and dedicated collaborative workspaces for each of your team’s improvement projects. 
 
 The framework itself will always be free. The app provides an optional way for teams to keep their entire improvement journey within a single platform so that their improvement workflows are more streamlined, trackable, and transparent.
 
