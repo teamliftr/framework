@@ -30,9 +30,9 @@ It’s impossible to control the unexpected, but it’s not impossible to prepar
 
 Each topic in the framework consists of a statement for the user to evaluate and an explanation that provides further detail on the topic. For example, this is the first topic in the Product Strategy category, which is part of the Product & Technology assessment:
 
-**1.1.1 Product Vision**
-   - **Statement:** Your team has an explicit, high-level vision for the product(s) and/or service(s) it is responsible for. This vision clearly describes the problem that the product/service aims to solve, and was developed as a collaborative effort.**
-   - **Explanation:** A strong product vision emphasizes the value the product offers to users, and in-turn provides all team members with a shared understanding of the team’s long-term goal. Product visions should be validated by both team members and potential users, and revised as-needed to ensure development stays focused on creating a product that addresses a genuine customer need.
+> **1.1.1 Product Vision**
+>    - **Statement:** Your team has an explicit, high-level vision for the product(s) and/or service(s) it is responsible for. This vision clearly describes the problem that the product/service aims to solve, and was developed as a collaborative effort.**
+>    - **Explanation:** A strong product vision emphasizes the value the product offers to users, and in-turn provides all team members with a shared understanding of the team’s long-term goal. Product visions should be validated by both team members and potential users, and revised as-needed to ensure development stays focused on creating a product that addresses a genuine customer need.
 
 Users complete each topic by scoring their level of agreement with that topic's statement. The scoring system is designed to use the following format: 1 - *Untrue*, 
 2 - *Somewhat True*, 3 - *Mostly True*, 4 - *Entirely True*
