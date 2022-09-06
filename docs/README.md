@@ -8,7 +8,7 @@ We developed TeamLiftr to meet our own need for a framework that offers a high-l
 
 The Framework’s design and content reflect current best practices in software engineering and assessment design and have been validated by outside experts. While the Framework aims to be comprehensive, it is ultimately a subjective and non-exhaustive document that reflects the perspectives of its creators. 
 
-Our ‘curatorial’ and opinionated approach to creating TeamLiftr separates it from frameworks that are designed based on survey or interview feedback. These approaches are valuable, but they also reproduce any blindspots held by survey respondents. Our approach ensures that we can address the important topics which survey-based frameworks may miss. 
+Our curatorial and opinionated approach to creating TeamLiftr separates it from frameworks that are designed based on survey or interview feedback. These approaches are valuable, but they also reproduce any blindspots held by survey respondents. Our approach ensures that we can address the important topics which survey-based frameworks may miss. 
 
 The TeamLiftr framework is complemented by the TeamLiftr app ([TeamLiftr.com](https://teamliftr.com)). The app includes all three TeamLiftr assessments, visualizations of both individual and team aggregate assessment feedback, progress tracking tools, and dedicated collaborative workspaces for each of your team’s improvement projects. 
 
