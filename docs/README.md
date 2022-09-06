@@ -58,7 +58,7 @@ Select any individual category:
    - [3.4 Information Security Assurance](operations_and_risk_management/INFORMATION_SECURITY_ASSURANCE.md)
 
 ## Further reading
-- [How to use with your team](USAGE.md)
+- [How to use the TeamLiftr Framework with your team](USAGE.md)
 - [Future additions](FUTURE_ADDITIONS.md)
 
 ## License
