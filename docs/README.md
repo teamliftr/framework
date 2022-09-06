@@ -34,7 +34,7 @@ Each topic in the framework consists of a statement for users to evaluate and an
 >    - **Statement:** Your team has an explicit, high-level vision for the product(s) and/or service(s) it is responsible for. This vision clearly describes the problem that the product/service aims to solve, and was developed as a collaborative effort.**
 >    - **Explanation:** A strong product vision emphasizes the value the product offers to users, and in-turn provides all team members with a shared understanding of the team’s long-term goal. Product visions should be validated by both team members and potential users, and revised as-needed to ensure development stays focused on creating a product that addresses a genuine customer need.
 
-Users complete each topic by scoring their level of agreement with that topic's statement. The scoring system is designed to use the following format: 1 - *Untrue*, 2 - *Somewhat True*, 3 - *Mostly True*, 4 - *Entirely True*.
+Users complete each topic by scoring their level of agreement with that topic's statement. The scoring system is designed to use the following format: `1 - Untrue`, `2 - Somewhat True`, `3 - Mostly True`, `4 - Entirely True`.
 
 ## The TeamLiftr Framework
 Select any individual category: 
@@ -60,9 +60,9 @@ Select any individual category:
 ## How to use with your team
 TeamLiftr is designed to foster continuous improvement through a cyclical process: Teams assess their performance, identify what issues to improve, and then initialize improvement projects to address each of those issues. From there, teams will use the framework to reassess their performance periodically, both to evaluate their current progress and to identify new priorities for improvement. 
 
-The TeamLiftr process in a nutshell: Assess Performance → Identify Improvement Priority → Create Improvement Project → (Re)assess Performance. 
+The TeamLiftr process in a nutshell: `Assess Performance` → `Identify Improvement Priority` → `Create Improvement Project` → `(Re)assess Performance`. 
 
-To get started, your team should complete at least part of an assessment—as noted above, both the assessments and their individual categories can be completed in any order. After completing an assessment, the team should review and discuss its results in order to identify its key improvement priorities. 
+To get started, your team should complete at least part of an assessment — as noted above, both the assessments and their individual categories can be completed in any order. After completing an assessment, the team should review and discuss its results in order to identify its key improvement priorities. 
 
 In order to make it easier for teams to identify their improvement priorities, TeamLiftr organizes the topics in each category according to their immediate importance:
 
@@ -76,7 +76,7 @@ This is why it’s beneficial for teams to retake assessments periodically: Usin
 ### Using TeamLiftr to decide team responsibilities
 TeamLiftr is a powerful decision-making support tool that teams can use to more effectively and transparently decide who should take ownership of a given task, responsibility, or improvement initiative.
 
-By breaking down overall team performance into organized, symmetrically-categorized arrays of individual topics, TeamLiftr can empower teams to better discuss performance issues, identify priorities, and decide who should take ownership of a given project—with significantly more clarity and transparency than would otherwise be possible. 
+By breaking down overall team performance into organized, symmetrically-categorized arrays of individual topics, TeamLiftr can empower teams to better discuss performance issues, identify priorities, and decide who should take ownership of a given project — with significantly more clarity and transparency than would otherwise be possible. 
 
 TeamLiftr's decision support function also applies to individuals in leadership roles: TeamLiftr has successfully been used with CTOs to help them to better decide which tasks they should manage directly and which should be delegated to others. 
 
@@ -94,10 +94,10 @@ Identifying which areas of your team’s performance should be prioritized can b
 *Inspire Meaningful Discussions*     
 TeamLiftr’s post-assessment discussions are an opportunity for individual team members to highlight issues they feel strongly about. Each topic in the Framework is a potential “jumping off” point that team members can use to highlight an issue they feel deserves more awareness within the team. 
 
-It can be difficult to direct a group’s attention to issues that they don’t view as important—post-assessment discussions ensure that all team members have the agency to prevent key issues from being overlooked.
+It can be difficult to direct a group’s attention to issues that they don’t view as important — post-assessment discussions ensure that all team members have the agency to prevent key issues from being overlooked.
 
 *Facilitate Knowledge Sharing*   
-Group discussion of assessment results should encourage the exchange of perspectives between team members and provide opportunities for team members to build a shared understanding of a topic. Knowledge sharing during discussions is an improvement activity unto itself—one that can help teams to recognize when improving their knowledge of a specific topic area should become a formal improvement initiative in its own right.  
+Group discussion of assessment results should encourage the exchange of perspectives between team members and provide opportunities for team members to build a shared understanding of a topic. Knowledge sharing during discussions is an improvement activity unto itself — one that can help teams to recognize when improving their knowledge of a specific topic area should become a formal improvement initiative in its own right.  
 
 *Create Topic Breakdowns*   
 TeamLiftr deals with performance at a relatively high-level. To fully discuss a topic from the framework, it will often be necessary to consider the various factors that affect your team’s performance in that area. This topic breakdown process is important when planning your improvement projects: The ability to target specific performance variables is a crucial part of goal setting.
@@ -121,7 +121,7 @@ This usage guidance would be focused on high-level activities, such as: engaging
 Teams often have trouble assessing whether they are doing “enough” when pursuing an improvement goal, and this uncertainty can have a negative impact on motivation. By enabling teams to assess their overall use of the Framework against a set of TeamLiftr-validated guidelines, we can provide teams with the ability to more confidently assess whether their current efforts are  are sufficient to meet their overall goals.
                
 ## Contributing
-TeamLiftr’s commitment to continuous improvement extends to the framework itself—we’re always looking to make TeamLiftr better, and want it to be as useful as possible for product engineering teams. If you’d like to help with the development of TeamLiftr, we’d love to hear from you. Here are some ways to get involved:
+TeamLiftr’s commitment to continuous improvement extends to the framework itself — we’re always looking to make TeamLiftr better, and want it to be as useful as possible for product engineering teams. If you’d like to help with the development of TeamLiftr, we’d love to hear from you. Here are some ways to get involved:
 
    - **Provide Feedback** by [opening an issue](https://github.com/teamliftr/framework/issues/new) in our [GitHub repository](https://github.com/teamliftr/framework).
    - **Propose a Change** by [submitting a pull request](https://github.com/teamliftr/framework/pulls). 
