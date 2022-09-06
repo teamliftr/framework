@@ -37,7 +37,9 @@ module.exports = {
                     ['/operations_and_risk_management/CONTINUITY_AND_INCIDENT_MANAGEMENT.md', '3.3 Continuity & Incident Management'],
                     ['/operations_and_risk_management/INFORMATION_SECURITY_ASSURANCE.md', '3.4 Information Security Assurance'],
                 ]
-            }
+            },
+            ['/USAGE.md', 'How to use with your team'],
+            ['/FUTURE_ADDITIONS.md', 'Future additions'],
         ],
 
         //algolia: {
