@@ -1,7 +1,7 @@
 module.exports = {
     base: '/framework/',
     title: 'TeamLiftr Framework',
-    description: 'A framework for high-performing engineering teams.',
+    description: 'An assessment and performance tracking framework for software engineering teams.',
 
     themeConfig: {
         logo: '/assets/logo.png',
