@@ -75,7 +75,7 @@ This is why it’s beneficial for teams to retake assessments periodically: Usin
 
 ## Further reading
 - [How to get the most out of TeamLiftr](MAXIMIZE_IMPACT.md)
-- [Future additions](FUTURE_ADDITIONS.md)
+- [Future additions + how to contribute](FUTURE_ADDITIONS.md)
 
 ## License
 The TeamLiftr Framework can be used freely and without limit, except for commercial use and the creation of derivative works, which are prohibited.       
