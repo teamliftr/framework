@@ -51,7 +51,16 @@ module.exports = {
         //    indexName: '<INDEX_NAME>'
         //    // If Algolia did not provided you any `appId`, use `BH4D9OD16A` or remove this option
         //    appId: '<APP_ID>',
-        //  }
+        //  },
+	
+        plugins: [
+    	  [
+     	     '@vuepress/google-analytics',
+      	     {
+        	'ga': 'UA-212247114-2'
+      	     }
+    	  ]
+  	],
 
       }
 
