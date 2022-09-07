@@ -43,7 +43,7 @@ module.exports = {
                 ]
             },
             ['/BEST_PRACTICES.md', 'TeamLiftr Best Practices'],
-            ['/FUTURE_ADDITIONS.md', 'Future additions'],
+            ['/FUTURE_ADDITIONS.md', 'Future Additions'],
         ],
 
         //algolia: {
