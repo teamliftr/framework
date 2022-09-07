@@ -38,7 +38,7 @@ module.exports = {
                     ['/operations_and_risk_management/INFORMATION_SECURITY_ASSURANCE.md', '3.4 Information Security Assurance'],
                 ]
             },
-            ['/USAGE.md', 'How to use with your team'],
+            ['/MAXIMIZE_IMPACT.md', 'How to get the most out of TeamLiftr'],
             ['/FUTURE_ADDITIONS.md', 'Future additions'],
         ],
 
