@@ -1,4 +1,5 @@
-# How to get the most out of TeamLiftr
+# TeamLiftr best practices
+A few tips for how to get the most out of TeamLiftr:
 
 ## Using TeamLiftr to decide team responsibilities
 TeamLiftr is a powerful decision-making support tool that teams can use to more effectively and transparently decide who should take ownership of a given task, responsibility, or improvement initiative.
