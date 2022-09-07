@@ -1,6 +1,12 @@
 # Future additions
 TeamLiftr’s commitment to continuous improvement extends to the framework itself — we’re always looking to make TeamLiftr better, and want it to be as useful as possible for product engineering teams.
 
+If you’d like to help with the development of TeamLiftr, we’d love to hear from you. Here are some ways to get involved:
+
+   - **Provide Feedback** by [opening an issue](https://github.com/teamliftr/framework/issues/new) in our [GitHub repository](https://github.com/teamliftr/framework).
+   - **Propose a Change** by [submitting a pull request](https://github.com/teamliftr/framework/pulls). 
+   - **Join Our Community** by signing up to the [TeamLiftr Community on Slack](https://join.slack.com/t/teamliftr/shared_invite/zt-17s1ssb6b-1~k1AzVajRxCxbJHxqMpRw).
+
 ## Suggested Metrics
 We are currently developing a suite of suggested metrics for the Framework. Each metric will be linked to a specific topic from the assessments, and will be designed as a way for teams to measure the progress of their improvement projects.
         
@@ -14,10 +20,3 @@ We are investigating whether the creation of a formal set of usage guidelines wo
 This usage guidance would be focused on high-level activities, such as: engaging with assessments, performing team reviews, selecting improvement priorities, creating new improvement projects, etc.             
               
 Teams often have trouble assessing whether they are doing “enough” when pursuing an improvement goal, and this uncertainty can have a negative impact on motivation. By enabling teams to assess their overall use of the Framework against a set of TeamLiftr-validated guidelines, we can provide teams with the ability to more confidently assess whether their current efforts are  are sufficient to meet their overall goals.
-
-# Contributing
- If you’d like to help with the development of TeamLiftr, we’d love to hear from you. Here are some ways to get involved:
-
-   - **Provide Feedback** by [opening an issue](https://github.com/teamliftr/framework/issues/new) in our [GitHub repository](https://github.com/teamliftr/framework).
-   - **Propose a Change** by [submitting a pull request](https://github.com/teamliftr/framework/pulls). 
-   - **Join Our Community** by signing up to the [TeamLiftr Community on Slack](https://join.slack.com/t/teamliftr/shared_invite/zt-17s1ssb6b-1~k1AzVajRxCxbJHxqMpRw).
