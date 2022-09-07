@@ -3,8 +3,8 @@ module.exports = {
     title: 'TeamLiftr Framework',
     description: 'An assessment and performance tracking framework for software engineering teams.',
     head: [
-        ['link', { rel: 'icon', href: '/favicon-32x32.png' }],
-        ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' }],
+        ['link', { rel: 'icon', href: '/assets/favicon-32x32.png' }],
+        ['link', { rel: 'apple-touch-icon', href: '/assets/apple-touch-icon.png' }],
     ],
 
     themeConfig: {
