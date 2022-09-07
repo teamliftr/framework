@@ -42,7 +42,7 @@ module.exports = {
                     ['/operations_and_risk_management/INFORMATION_SECURITY_ASSURANCE.md', '3.4 Information Security Assurance'],
                 ]
             },
-            ['/MAXIMIZE_IMPACT.md', 'How to get the most out of TeamLiftr'],
+            ['/BEST_PRACTICES.md', 'TeamLiftr Best Practices'],
             ['/FUTURE_ADDITIONS.md', 'Future additions'],
         ],
 
