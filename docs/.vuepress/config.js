@@ -53,13 +53,8 @@ module.exports = {
         //    appId: '<APP_ID>',
         //  },
 	
-        plugins: [
-    	  [
-     	     '@vuepress/google-analytics',
-      	     {
-        	'ga': 'UA-212247114-2'
-      	     }
-    	  ]
+	plugins: [
+   	  ['@vuepress/plugin-google-analytics', { ga: 'UA-212247114-2' }],
   	],
 
       }
