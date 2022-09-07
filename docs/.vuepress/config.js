@@ -34,7 +34,7 @@ module.exports = {
             },
             {
                 path: '/operations_and_risk_management/',
-                title: '3. Operations & Risk Management',
+                title: '3. Ops & Risk Management',
                 children: [
                     ['/operations_and_risk_management/DAILY_OPERATIONS.md', '3.1 Daily Operations'],
                     ['/operations_and_risk_management/QUALITY_ASSURANCE_AND_STANDARDIZATION.md', '3.2 Quality Assurance & Standardization'],
