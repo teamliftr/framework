@@ -19,6 +19,8 @@ TeamLiftr’s assessment framework consists of three assessments, each with four
 
 The three main assessment categories are:
 
+![TeamLiftr's main assessment categories](./images/overview.png)
+
 **Product & Technology**      
 A comprehensive product strategy isn’t necessary to develop a working product, but it is necessary to develop a product that’s competitive and sustainable. This assessment helps teams to identify what product features to prioritize and how to maximize value for end-users. 
 
