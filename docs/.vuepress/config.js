@@ -1,7 +1,7 @@
 module.exports = {
     base: '/framework/',
     title: 'TeamLiftr Framework',
-    description: 'A framework for high-performing engineering teams.',
+    description: 'An assessment and performance tracking framework for software engineering teams.',
 
     themeConfig: {
         logo: '/assets/logo.png',
@@ -37,7 +37,9 @@ module.exports = {
                     ['/operations_and_risk_management/CONTINUITY_AND_INCIDENT_MANAGEMENT.md', '3.3 Continuity & Incident Management'],
                     ['/operations_and_risk_management/INFORMATION_SECURITY_ASSURANCE.md', '3.4 Information Security Assurance'],
                 ]
-            }
+            },
+            ['/MAXIMIZE_IMPACT.md', 'How to get the most out of TeamLiftr'],
+            ['/FUTURE_ADDITIONS.md', 'Future additions'],
         ],
 
         //algolia: {
