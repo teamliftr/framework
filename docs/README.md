@@ -57,8 +57,24 @@ Select any individual category:
    - [3.3 Continuity & Incident Management](operations_and_risk_management/CONTINUITY_AND_INCIDENT_MANAGEMENT.md)
    - [3.4 Information Security Assurance](operations_and_risk_management/INFORMATION_SECURITY_ASSURANCE.md)
 
+# How to use with your team
+TeamLiftr is designed to foster continuous improvement through a cyclical process: Teams assess their performance, identify what issues to improve, and then initialize improvement projects to address each of those issues. From there, teams will use the framework to reassess their performance periodically, both to evaluate their current progress and to identify new priorities for improvement. 
+
+The TeamLiftr process in a nutshell: `Assess Performance` → `Identify Improvement Priority` → `Create Improvement Project` → `(Re)assess Performance`. 
+
+To get started, your team should complete at least part of an assessment — as noted above, both the assessments and their individual categories can be completed in any order. After completing an assessment, the team should review and discuss its results in order to identify its key improvement priorities. 
+
+In order to make it easier for teams to identify their improvement priorities, TeamLiftr organizes the topics in each category according to their immediate importance:
+
+   - **Topics 1-3** in each category are “Basic” performance topics — core performance issues that teams should prioritize first. 
+   - **Topics 4-5** are “Intermediate” and **Topic 6** is an “Advanced” topic — these issues are for teams that are ready to optimize their performance and out-compete their peers. 
+
+After using an assessment to identify a particular area to improve performance in, your team should start an improvement initiative for that topic. By tying your initiative to a  specific topic from the assessment, your team will be able to monitor the initiative’s impact by tracking how assessment feedback for that topic changes over time.
+
+This is why it’s beneficial for teams to retake assessments periodically: Using assessments to create an ongoing record of the team’s feedback makes it possible to easily and accurately monitor changes in performance over time, across all the major performance variables that are dealt with in the assessments. 
+
 ## Further reading
-- [How to use the TeamLiftr Framework with your team](USAGE.md)
+- [How to get the most out of TeamLiftr](MAXIMIZE_IMPACT.md)
 - [Future additions](FUTURE_ADDITIONS.md)
 
 ## License
