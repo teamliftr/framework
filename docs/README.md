@@ -78,7 +78,7 @@ After using an assessment to identify a particular area to improve performance i
 This is why it’s beneficial for teams to retake assessments periodically: Using assessments to create an ongoing record of the team’s feedback makes it possible to easily and accurately monitor changes in performance over time, across all the major performance variables that are dealt with in the assessments. 
 
 ## Further reading
-- [How to get the most out of TeamLiftr](MAXIMIZE_IMPACT.md)
+- [How to get the most out of TeamLiftr](BEST_PRACTICES.md)
 - [Future additions + how to contribute](FUTURE_ADDITIONS.md)
 
 ## License
