@@ -19,6 +19,8 @@ TeamLiftr’s assessment framework consists of three assessments, each with four
 
 The three main assessment categories are:
 
+![TeamLiftr's main assessment categories](./images/overview.png)
+
 **Product & Technology**      
 A comprehensive product strategy isn’t necessary to develop a working product, but it is necessary to develop a product that’s competitive and sustainable. This assessment helps teams to identify what product features to prioritize and how to maximize value for end-users. 
 
@@ -60,7 +62,9 @@ Select any individual category:
 ## How to use with your team
 TeamLiftr is designed to foster continuous improvement through a cyclical process: Teams assess their performance, identify what issues to improve, and then initialize improvement projects to address each of those issues. From there, teams will use the framework to reassess their performance periodically, both to evaluate their current progress and to identify new priorities for improvement. 
 
-The TeamLiftr process in a nutshell: `Assess Performance` → `Identify Improvement Priority` → `Create Improvement Project` → `(Re)assess Performance`. 
+The TeamLiftr process in a nutshell: 
+
+![Assess Performance → Identify Improvement Priority → Create Improvement Project → (Re)assess Performance.](./images/process.png)
 
 To get started, your team should complete at least part of an assessment — as noted above, both the assessments and their individual categories can be completed in any order. After completing an assessment, the team should review and discuss its results in order to identify its key improvement priorities. 
 
