@@ -5,6 +5,20 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/assets/favicon-32x32.png' }],
         ['link', { rel: 'apple-touch-icon', href: '/assets/apple-touch-icon.png' }],
+	[
+            'script',
+            {
+                async: true,
+                src: 'https://www.googletagmanager.com/gtag/js?id=G-YQG47EX7H6',
+            },
+        ],
+        [
+            'script',
+            {},
+            [
+                "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-YQG47EX7H6');",
+            ],
+        ],
     ],
 
     themeConfig: {
@@ -52,10 +66,6 @@ module.exports = {
         //    // If Algolia did not provided you any `appId`, use `BH4D9OD16A` or remove this option
         //    appId: '<APP_ID>',
         //  },
-	
-	plugins: [
-   	  ['@vuepress/plugin-google-analytics', { ga: 'UA-212247114-2' }],
-  	],
 
       }
 
