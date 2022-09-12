@@ -1,5 +1,5 @@
 # 1.1 Product Strategy
-A comprehensive product strategy isn’t necessary to develop a working product. It is; however, necessary to develop a product that can outcompete its rivals and which is sustainable to develop long-term. To understand what product features to prioritize, you need a strategy that allows you to identify how to maximize value for your end-users.
+A comprehensive product strategy isn’t necessary to develop a working product. It is, however, necessary to develop a product that can outcompete its rivals and which is sustainable to develop long-term. To understand what product features to prioritize, you need a strategy that allows you to identify how to maximize value for your end-users.
 
 ## 1.1.1 Product Vision
 Level: `Basic`
