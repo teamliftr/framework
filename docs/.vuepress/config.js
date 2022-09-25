@@ -59,14 +59,19 @@ module.exports = {
             ['/BEST_PRACTICES.md', 'TeamLiftr Best Practices'],
             ['/FUTURE_ADDITIONS.md', 'Future Additions'],
         ],
+    },
+
+    plugins: {
+      'sitemap': {
+	    hostname: 'https://teamliftr.github.io/',
+      },
+    },
 
         //algolia: {
         //    apiKey: '<API_KEY>',
         //    indexName: '<INDEX_NAME>'
         //    // If Algolia did not provided you any `appId`, use `BH4D9OD16A` or remove this option
         //    appId: '<APP_ID>',
-        //  },
-
-      }
+        //  },	
 
   }
