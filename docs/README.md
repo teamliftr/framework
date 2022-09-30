@@ -84,4 +84,4 @@ This is why it’s beneficial for teams to retake assessments periodically: Usin
 ## License
 The TeamLiftr Framework can be used freely and without limit, except for commercial use and the creation of derivative works, which are prohibited.       
       
-TeamLiftr’s authors are Floris Vlasveld and Jeffrey Cusack. The TeamLiftr Framework and its associated assets are copyright Inspire Innovation BV, all rights reserved. 
+TeamLiftr’s authors are [Floris Vlasveld](https://www.linkedin.com/in/florisvlasveld/) and [Jeffrey Cusack](https://www.linkedin.com/in/jeff-cusack902/). The TeamLiftr Framework and its associated assets are copyright Inspire Innovation BV, all rights reserved. 
