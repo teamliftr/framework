@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Introducing TeamLiftr, a new assessment and performance tracking framework. TeamLiftr offers a structured and straightforward way for software engineering product teams to assess their performance and identify which areas they feel should be prioritized for improvement.**
+**TeamLiftr is an assessment and performance tracking framework. It offers a structured and straightforward way for software teams to assess their performance and identify which areas they feel should be prioritized for improvement.**
 
 We developed TeamLiftr to meet our own need for a framework that offers a high-level overview of team performance. Teams we work with have successfully used TeamLiftr to identify improvement opportunities they would otherwise miss, and have found that the Framework simplifies the process of selecting and onboarding new improvement projects. 
 
@@ -84,4 +84,4 @@ This is why it’s beneficial for teams to retake assessments periodically: Usin
 ## License
 The TeamLiftr Framework can be used freely and without limit, except for commercial use and the creation of derivative works, which are prohibited.       
       
-TeamLiftr’s authors are [Floris Vlasveld](https://www.linkedin.com/in/florisvlasveld/) and [Jeffrey Cusack](https://www.linkedin.com/in/jeff-cusack902/). The TeamLiftr Framework and its associated assets are copyright Inspire Innovation BV, all rights reserved. 
+TeamLiftr’s authors are [Floris Vlasveld](https://www.linkedin.com/in/florisvlasveld/) and [Jeffrey Cusack](https://www.linkedin.com/in/jeff-cusack902/). The TeamLiftr Framework and its associated assets are copyright Invisory (a label of Inspire Innovation BV). All rights reserved.
