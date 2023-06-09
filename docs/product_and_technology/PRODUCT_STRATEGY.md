@@ -25,7 +25,7 @@ Value-driven approaches to development allow teams to ensure their priorities ar
 ## 1.1.4 Product Roadmapping
 Level: `Intermediate`
 
-**Your team uses a product roadmap to plan how its services will develop. The roadmap was created with input from all team members, and is reviewed and updated regularly.**
+**Your team uses a ROI-driven product roadmap to plan how its services will develop. The roadmap was created with input from all team members, and is reviewed and updated regularly.**
 
 Roadmaps provide teams with a clear plan of action for their product. To preserve agility, teams should avoid planning too far in advance or in excessive detail; roadmaps should be regularly updated to reflect changes in the team’s needs and ensure the team stays focused on achieving key stakeholder, customer, and end-user priorities.
 
