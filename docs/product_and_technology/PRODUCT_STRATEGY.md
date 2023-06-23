@@ -15,7 +15,7 @@ Level: `Basic`
 
 A sub-par user experience can derail the success of an otherwise strong product. During the product formulation process, significant emphasis should be placed on ensuring that every development outcome includes user experience as a key deliverable.
 
-## 1.1.3 ROI-driven prioritization
+## 1.1.3 ROI-Driven Prioritization
 Level: `Basic`
 
 **Your team’s product development decisions prioritize features that offer a strong Return on Investment (ROI). Assessments of a feature’s value are driven by explicit hypotheses, and whenever possible validated via consultation with customers and other stakeholders.**
