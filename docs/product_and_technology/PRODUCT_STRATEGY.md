@@ -15,17 +15,17 @@ Level: `Basic`
 
 A sub-par user experience can derail the success of an otherwise strong product. During the product formulation process, significant emphasis should be placed on ensuring that every development outcome includes user experience as a key deliverable.
 
-## 1.1.3 Emphasis on Customer Value
+## 1.1.3 ROI-driven priori
 Level: `Basic`
 
-**Your team’s product development decisions prioritize features that offer strong customer value. Assessments of a feature’s value are driven by explicit hypotheses, and validated via consultation with customers and other stakeholders.**
+**Your team’s product development decisions prioritize features that offer a strong Return on Investment (ROI). Assessments of a feature’s value are driven by explicit hypotheses, and whenever possible validated via consultation with customers and other stakeholders.**
 
-Value-driven approaches to development allow teams to ensure their priorities are aligned with the outcomes that will deliver the most value to customers. This approach should be maintained throughout the product’s lifecycle.
+ROI-driven approaches to development allow teams to ensure their priorities are aligned with the outcomes that will deliver the most value. This approach should be maintained throughout the product’s lifecycle.
 
 ## 1.1.4 Product Roadmapping
 Level: `Intermediate`
 
-**Your team uses a ROI-driven product roadmap to plan how its services will develop. The roadmap was created with input from all team members, and is reviewed and updated regularly.**
+**Your team uses a product roadmap to plan how its services will develop. The roadmap was created with input from all team members, and is reviewed and updated regularly.**
 
 Roadmaps provide teams with a clear plan of action for their product. To preserve agility, teams should avoid planning too far in advance or in excessive detail; roadmaps should be regularly updated to reflect changes in the team’s needs and ensure the team stays focused on achieving key stakeholder, customer, and end-user priorities.
 
