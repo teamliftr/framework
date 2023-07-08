@@ -19,6 +19,10 @@ Level: `Basic`
 
 An effective release strategy combines an iterative approach with short cycle times. Focusing on small, iterative batches minimizes the risk associated with deployments, in-turn making it easier to deliver continuous value to customers.
 
+| Suggested metric | Description |
+|:-----------------|:------------|
+| Deployment Frequency | For a specific application/service, how often is code deployed to production or released to end users? |
+
 ## 1.3.3 Change Failure Rate
 Level: `Basic`
 
