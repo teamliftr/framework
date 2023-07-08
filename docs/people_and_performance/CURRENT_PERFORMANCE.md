@@ -22,6 +22,10 @@ Level: `Basic`
 
 The ability to prevent and resolve major failures is an existential competency. Major failures can impose significant costs in the form of financial and reputational damages, and even the strongest business model can become unviable if a failure is severe enough to prevent adherence to its tenets.
 
+| Suggested metric | Description |
+|:-----------------|:------------|
+| Time to Restore | For a specific application/service, how long does it generally take to restore service when a service incident or a defect that impacts users occurs? |
+
 ## 2.1.4 Team Performance Evaluations
 Level: `Intermediate`
 
