@@ -11,9 +11,13 @@ Your team needs to be able to rapidly detect system failures in order to ensure 
 ## 3.3.2 Incident Response
 Level: `Basic`
 
-**There is a set process for handling high priority bugs and other production incidents. This process works well, and it is reviewed, updated and improved at regular intervals.**
+**There is a set process for handling high-priority bugs and other production incidents. This process works well, and it is reviewed, updated and improved at regular intervals.**
 
 A defined process for responding to bugs is necessary for teams to be able to identify, prioritize and respond to critical issues before they cause significant damage. This process should enable classification of bugs and incidents according to both severity and priority, and must be understood by every member of the team.
+
+| Suggested metric | Description |
+|:-----------------|:------------|
+| Time to Restore | For a specific application/service, how long does it generally take to restore service when a service incident or a defect that impacts users occurs? |
 
 ## 3.3.3 Bus Factor
 Level: `Basic`
