@@ -36,6 +36,10 @@ Level: `Intermediate`
 
 Minimizing the impact of disruptions is necessary to maximize customer value. To do this, it is necessary to plan in advance how to restore services in the event of an outage. These plans should include reasonable estimates of the costs and time that will be necessary to restore services in different scenarios.
 
+| Suggested metric | Description |
+|:-----------------|:------------|
+| Time to Restore | For a specific application/service, how long does it generally take to restore service when a service incident or a defect that impacts users occurs? |
+
 ## 3.3.6 Software Robustness
 Level: `Advanced`
 

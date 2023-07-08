@@ -8,6 +8,10 @@ Level: `Basic`
 
 A well-designed CI/CD pipeline ensures that services can be scaled without compromising performance, and is necessary for products to retain their value long-term. To reduce the time/cost of each release cycle, products should be designed so that most deployments can be automated. If a product’s deployments are difficult to automate, the amount of work necessary to address this issue should be considered part of the project’s overall technical debt. 
 
+| Suggested metric | Description |
+|:-----------------|:------------|
+| Lead Times for Changes | For a specific application or service, how long does it take to go from code committed to code successfully running in production? |
+
 ## 1.3.2 Iterative Workflow
 Level: `Basic`
 
@@ -15,12 +19,20 @@ Level: `Basic`
 
 An effective release strategy combines an iterative approach with short cycle times. Focusing on small, iterative batches minimizes the risk associated with deployments, in-turn making it easier to deliver continuous value to customers.
 
+| Suggested metric | Description |
+|:-----------------|:------------|
+| Deployment Frequency | For a specific application or service, how often is code deployed to production or released to end users? |
+
 ## 1.3.3 Change Failure Rate
 Level: `Basic`
 
 **Your team has a low failure rate when updating its systems. When failures do occur the team always publicizes and logs them, along with their cause and solution, in order to prevent recurrences.**
 
 A low-update failure rate is needed to minimize cycle-times and maximize value delivery. When failures do occur, the use of a formal incident capture and resolution system is needed to ensure that all relevant teams learn from the incident. In this context, incident capture acts as both a risk-mitigation activity and a continuous improvement process.
+
+| Suggested metric | Description |
+|:-----------------|:------------|
+| Change Failure Rate | For a specific application or service, what percentage of changes to production or releases to users result in degraded service and require remediation? |
 
 ## 1.3.4 Resource Accessibility
 Level: `Intermediate`
