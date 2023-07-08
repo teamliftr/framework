@@ -8,6 +8,10 @@ Level: `Basic`
 
 A well-designed CI/CD pipeline ensures that services can be scaled without compromising performance, and is necessary for products to retain their value long-term. To reduce the time/cost of each release cycle, products should be designed so that most deployments can be automated. If a product’s deployments are difficult to automate, the amount of work necessary to address this issue should be considered part of the project’s overall technical debt. 
 
+| Suggested metric | Description |
+|:-----------------|:------------|
+| Lead Times for Changes | How long does it take to go from code committed to code successfully running in production? |
+
 ## 1.3.2 Iterative Workflow
 Level: `Basic`
 
